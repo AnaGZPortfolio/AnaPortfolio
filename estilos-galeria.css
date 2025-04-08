@@ -12,8 +12,6 @@ footer{
 
 body{
     background-color: #7E69B6;
-    width:80%;
-    height:90%;
 }
 
 .button-inicio{
@@ -40,8 +38,7 @@ body{
 
 .container-galeria{
     display:block;
-    width:60%;
-}
+    }
 
 .container-galeria img {
     width: 300px 70px;
