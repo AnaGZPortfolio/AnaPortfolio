@@ -13,3 +13,25 @@ footer{
 body{
     background-color: #7E69B6;
 }
+
+.button-inicio{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:50px ;
+    width: 225px 69px;
+    gap: 40px;
+}
+
+.button-inicio a {
+    border-radius: 5px;
+    background-color: #7E69B6;
+    border-color: #323373;
+    padding: 10px 30px;
+    text-decoration: none;
+    color:aliceblue;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    margin:margin: 5px;
+    display: inline-block;
+}
