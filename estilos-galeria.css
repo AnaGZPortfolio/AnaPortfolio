@@ -42,9 +42,7 @@ body{
     width:60%;
 }
 
-.Galería{
-    display:flex;
-    align-items:center;
-    border-radius:20px;
-    width:300px;
+.container-galeria img {
+    width: 300px 70px;
+    border-radius: 30px;
 }
