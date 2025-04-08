@@ -48,7 +48,7 @@ align-items:center;
     display:flex;
     align-items:center;
     overflow:hidden;
-    margin:10px 10px;
+    margin:10px 450px;
 }
 
 .container-foto img{
@@ -56,7 +56,7 @@ align-items:center;
     height: 300px;
     border-radius:50%;
    align-self:center;
-  margin: 300px 500px;
+  margin: 30px 50px;
 
 }
 
