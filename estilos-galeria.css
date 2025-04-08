@@ -36,3 +36,8 @@ body{
     margin:margin: 5px;
     display: inline-block;
 }
+
+.container-galeria{
+    display:inline-block;
+    border-radius:20px;
+    width:300px 100px;
