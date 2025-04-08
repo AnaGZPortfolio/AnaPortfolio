@@ -38,7 +38,7 @@ body{
 }
 
 .container-galeria{
-    display:inline-block;
+    display:block;
     border-radius:20px;
     width:300px;
     height:100px;
