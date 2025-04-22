@@ -56,6 +56,13 @@ body{
     margin: 80px;
     gap: 20px;
 
+    .texto-video p {
+    width: 210px;
+    margin: 0px 4px;
+    color: white;
+    display: flex;
+    font-size: larger;
+    }
 
 
 
