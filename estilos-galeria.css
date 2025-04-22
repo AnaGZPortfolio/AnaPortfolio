@@ -6,7 +6,15 @@ header{
 
 footer{
     background-color:#2A2635;
-    height:40px;
+    height: 40px;
+    color: #ffffff6e;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
     
 }
 
