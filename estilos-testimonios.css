@@ -51,6 +51,9 @@ h1{
 .sec-logos{
   width: auto;
   height: 193px;
+display: flex;
+ justify-content: center;
+ flex-direction: row;
 }
 
 .logos{
