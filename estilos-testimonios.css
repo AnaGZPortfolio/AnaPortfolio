@@ -80,7 +80,10 @@ h1{
 }
 
 .testimonios-sec hr{
-     width:40%;   
+    width: 2px;
+    margin: 21px;
+    background-color: white;
+    border-radius: 26px;
 }
 
 .testimonios-sec p{
