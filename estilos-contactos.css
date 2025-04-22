@@ -37,12 +37,15 @@ body{
 }
 
 .container-formulario{
+   height: 1000px;
     background-color: #292635;
-    width: 70%;
+    width: 60%;
     color: whitesmoke;
     display: flex;
     align-items: center;
     flex-direction: column;
+    margin: 40px;
+    justify-content: center;
 }
 
 .btn: hover{
