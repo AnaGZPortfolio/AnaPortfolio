@@ -72,7 +72,8 @@ display: flex;
 }
 
 .testimonios-sec{
-    display: flex;
+   display: flex;
+justify-content: center;
 }
 
 .testimonios-sec img{
