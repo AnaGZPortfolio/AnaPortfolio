@@ -34,16 +34,17 @@ h1{
 }
 
 .button-inicio a {
-    border-radius: 5px;
+   border-radius: 17px;
     background-color: #7E69B6;
-    border-color: #323373;
+    border: solid;
     padding: 10px 30px;
     text-decoration: none;
-    color:aliceblue;
+    color: aliceblue;
     font-family: Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
     margin: 5px;
     display: inline-block;
+    border-color: #323373;
 }
 
 .container-galeria{
