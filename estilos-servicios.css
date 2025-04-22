@@ -24,7 +24,7 @@ body{
   height: 300px;
 }
 
-.logos{
+.logos img{
   width: 122px;
   gap: 20px;
   display: flex;
