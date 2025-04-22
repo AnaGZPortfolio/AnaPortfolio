@@ -55,5 +55,9 @@ body{
     margin: 20px;
     width: 670px;
     gap: 40px;
-}    
+}   
+
+.Galería img{
+width:200px;    
+}
 
