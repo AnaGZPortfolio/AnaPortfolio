@@ -1,3 +1,42 @@
-﻿body
-{
+h1{
+    color:#A5A6F6;
+}
+
+header{
+    background-color:#2A2635;
+    height:40px;
+}
+
+
+footer{
+    background-color:#2A2635;
+    height: 40px;
+    color: #ffffff6e;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+    
+}
+
+body{
+    background-color: #7E69B6;
+    margin: auto;
+}
+
+.container-logos{
+  width: 50%;
+  display:flex;
+  justify-content:left;
+  align-content: center;
+  align-items: center;
+}
+
+.container-logos img{
+  width:100px;
+  display:flex;
+  justify-content:center;
 }
