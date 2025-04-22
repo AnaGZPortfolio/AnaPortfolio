@@ -27,7 +27,6 @@ body{
 .logos{
         width: auto;
     height: 300px;
-    margin: 128px;
     display: flex;
     align-items: center;
     justify-content: center;
