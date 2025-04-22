@@ -31,6 +31,7 @@ body{
 }
 
 .logos{
+    gap: 20px;
     width: auto;
     display: flex;
     align-items: center;
