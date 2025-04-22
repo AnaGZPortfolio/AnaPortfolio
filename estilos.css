@@ -90,3 +90,8 @@ footer{
     align-content: center;
     align-items: center;
 }
+
+p{
+     width: 300px;
+     height: 200px;
+     color:white;
