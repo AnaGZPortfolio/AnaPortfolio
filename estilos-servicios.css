@@ -40,7 +40,20 @@ body{
   align-items:center;
 }
 
+.hr{
+    color:white;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.texto-video{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
 
 
 
