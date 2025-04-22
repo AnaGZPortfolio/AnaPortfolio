@@ -26,11 +26,8 @@ body{
 }
 
 .container-logos{
-  width: 50%;
-  display:flex;
-  justify-content:left;
-  align-content: center;
-  align-items: center;
+ width: 50%;
+    background-color: #7E69B6;
 }
 
 .container-logos img{
