@@ -89,9 +89,13 @@ align-items:center;
 }
 
 footer{
-    background-color:#7E69B6;
-    height:40px;
-    color:white;
+    background-color: #7E69B6;
+    height: 40px;
+    color: #ffffff6e;
     font-family: Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
 }
