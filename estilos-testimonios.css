@@ -74,10 +74,11 @@ display: flex;
 .testimonios-sec{
    display: flex;
 justify-content: center;
+    gap:100px;
 }
 
 .testimonios-sec img{
-    width:500px;
+    width:300px;
     border-radius:20px;
     display:flex;
     align-items:center;
