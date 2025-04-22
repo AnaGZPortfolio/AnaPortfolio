@@ -15,9 +15,12 @@ body{
     margin: auto;
 }
 
+.h1{
+    color:#A5A6F6;
+}
 .button-inicio{
     display:flex;
-    justify-content:center;
+    justify-content: flex-start;
     align-items:center;
     margin:50px ;
     width: 225px 69px;
