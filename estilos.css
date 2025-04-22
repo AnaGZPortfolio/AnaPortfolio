@@ -91,7 +91,10 @@ footer{
     align-items: center;
 }
 
-p{
+    p{
      width: 300px;
      height: 200px;
      color:white;
+     font-family: Georgia, Times, 'Times New Roman', serif;
+     font-size:30px;
+    }
