@@ -47,3 +47,46 @@ h1{
     display: inline-block;
     border-color: #323373;
 }
+
+.sec-logos{
+  width: auto;
+  height: 193px;
+}
+
+.logos{
+    gap: 20px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.logos img{
+  width: 90px;
+  gap: 20px;
+  display: flex;
+  align-items:center;
+}
+
+.testimonios-sec{
+    display: flex;
+}
+
+.testimonios-sec img{
+    width:500px;
+    border-radius:20px;
+    display:flex;
+    align-items:center;
+}
+
+.testimonios-sec hr{
+     width:40%;   
+}
+
+.testimonios-sec p{
+    width: 210px;
+    margin: 0px 4px;
+    color: white;
+    display: flex;
+    font-size: larger;
+    }
