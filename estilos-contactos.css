@@ -2,13 +2,13 @@ h1{
     color:#A5A6F6;
 }
 
-header{
+.header{
     background-color:#2A2635;
     height:40px;
 }
 
 
-footer{
+.footer{
     background-color:#2A2635;
     height: 40px;
     color: #ffffff6e;
@@ -22,7 +22,7 @@ footer{
     
 }
 
-body{
+.body{
     background-color: #7E69B6;
     margin: auto;
 }
@@ -39,4 +39,12 @@ body{
   width:100px;
   display:flex;
   justify-content:center;
+}
+
+.container-formulario{
+    width:50%;
+    background-color:#292635;
+     justify-content:right;
+  align-content: center;
+  align-items: center;
 }
