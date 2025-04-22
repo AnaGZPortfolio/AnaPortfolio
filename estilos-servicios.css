@@ -1,3 +1,33 @@
-﻿body
-{
+header{
+    background-color:#2A2635;
+    height:40px;
 }
+
+
+footer{
+    background-color:#2A2635;
+    height:40px;
+    
+}
+
+body{
+    background-color: #7E69B6;
+    margin: auto;
+}
+
+.h1{
+    color:#A5A6F6;
+}
+
+.section-logos{
+  width: auto;
+  height: 300px;
+}
+
+.logos{
+  width: 122px;
+  gap: 20px;
+  display: flex;
+  align-items:center;
+}
+  
