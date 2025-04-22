@@ -45,7 +45,14 @@ body{
     align-items: center;
     }
 
-.container-galeria img {
-    width: 30px 70px;
-    border-radius: 30px;
-}
+
+.Galería{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 200px;
+}    
+
+.Galería img {
+    width:100px 100px;
