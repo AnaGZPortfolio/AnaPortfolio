@@ -1,3 +1,49 @@
-﻿body
-{
+header{
+    background-color:#7E69B6;
+    height:40px;
+}
+
+
+footer{
+    background-color:#7E69B6;
+    height: 40px;
+    color: #ffffff6e;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+body{
+    background-color: #2A2635;
+    margin: auto;
+}
+
+h1{
+    color:#A5A6F6;
+    margin: 21px;
+}
+.button-inicio{
+    display:flex;
+    justify-content: flex-start;
+    align-items:center;
+    margin:50px ;
+    width: 225px 69px;
+    gap: 40px;
+}
+
+.button-inicio a {
+   border-radius: 17px;
+    background-color: #2A2635;
+    border: solid;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    margin: 5px;
+    display: inline-block;
+    border-color: #323373;
 }
