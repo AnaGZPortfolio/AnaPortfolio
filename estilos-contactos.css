@@ -25,6 +25,15 @@ body{
     margin: auto;
 }
 
+.container-prin{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 74px;
+    height: auto;
+}
+
 .container-logos{
     width: 35%;
     background-color: #7E69B6;
