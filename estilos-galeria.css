@@ -37,6 +37,7 @@ body{
 }
 
 .container-galeria{
+    width: 800px;
     display:block;
     }
 
