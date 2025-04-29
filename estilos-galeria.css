@@ -76,6 +76,14 @@ border-color:#A5A6F6;
     
 }
 
+ .button-imagen {
+            padding: 10px 15px;
+            margin: 5px;
+            cursor: pointer;
+        }
+
+
+
 .Galería img:hover {
 transform: scale (1.1);
 box-shadow:  0 4px 8px rgb:#7E69B6;
