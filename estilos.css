@@ -36,7 +36,10 @@ align-items:center;
     
     
 }
-
+hr{    
+    width: 500px;
+    margin: 30px;
+}
 .button a{
     border-radius: 5px;
     background-color: #7E69B6;
