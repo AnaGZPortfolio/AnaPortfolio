@@ -66,7 +66,21 @@ hr{
     font-size: larger;
     }
 
-
+.texto3{
+     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 80px;
+    gap: 20px;
+}
+     texto3 p {
+    width: 210px;
+    margin: 0px 4px;
+    color: white;
+    display: flex;
+    font-size: larger;
+    }
 
 .button-inicio{
     display:flex;
