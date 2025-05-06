@@ -159,9 +159,20 @@ align-items:center;
     font-size:23px;
 }
 
+.section5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
 
-
-
+.intereses{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
 
 
 
