@@ -30,6 +30,7 @@ body{
    width: 90%;
     display: flex;
     align-items: center;
+    gap:75px;
 }
 
 .container-logos{
