@@ -89,16 +89,7 @@ align-items:center;
 
 }
 
-footer{    background-color: #7E69B6;
-    height: 40px;
-    color: #ffffff6e;
-    font-family: Georgia, Times, 'Times New Roman', serif;
-    font-weight: bold;
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    align-items: center;
-}
+
 
     p{
    width: 436px;
@@ -112,6 +103,7 @@ footer{    background-color: #7E69B6;
     }
 
 .section2 {
+    width: 95%;
     margin:auto;
     margin-top:40px;
     width: fit-content;
@@ -121,8 +113,37 @@ footer{    background-color: #7E69B6;
     padding-bottom: 100px;
 }
 
+
+
+
 .proyectos{
     display: flex;
     align-items: center;
     flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{    
+    background-color: #7E69B6;
+    height: 40px;
+    color: #ffffff6e;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
 }
