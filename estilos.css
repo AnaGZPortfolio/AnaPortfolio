@@ -203,7 +203,16 @@ align-items:center;
     margin:20px;
 }
 
-
+.formulario{
+       height: 800px;
+    background-color: #292635;
+    width: 60%;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    margin: 40px;
+    justify-content: center;
+}
 
 footer{    
     background-color: #7E69B6;
