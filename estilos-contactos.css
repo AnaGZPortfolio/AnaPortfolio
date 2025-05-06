@@ -41,9 +41,16 @@ body{
     gap:30px;
 }
 
-.container-logos img{
-  width:100px;
- 
+.logo1{
+ width:100px;
+}
+
+.logo2{
+ width:100px;
+}
+
+.logo3{
+ width:100px;
 }
 
 .container-formulario{
