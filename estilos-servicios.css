@@ -74,7 +74,7 @@ hr{
     margin: 80px;
     gap: 20px;
 }
-     texto3 p {
+     .texto3 p {
     width: 210px;
     margin: 0px 4px;
     color: white;
@@ -94,7 +94,7 @@ hr{
     margin: 80px;
     gap: 20px;
 }
-     texto4 p {
+     .texto4 p {
     width: 210px;
     margin: 0px 4px;
     color: white;
@@ -111,7 +111,7 @@ hr{
     margin: 80px;
     gap: 20px;
 }
-     texto5 p {
+     .texto5 p {
     width: 210px;
     margin: 0px 4px;
     color: white;
