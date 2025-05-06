@@ -54,7 +54,7 @@ h1{
 
     .slider-wrapper{
         position:relative;
-   max-width:48rem
+   max-width:48rem;
     box-shadow: 20px;
     margin: 0 auto;
     overflow: hidden;
