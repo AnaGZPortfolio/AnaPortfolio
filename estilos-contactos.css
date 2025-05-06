@@ -30,18 +30,16 @@ body{
     display: flex;
     flex-direction: row;
     align-items: center;
-    flex-wrap: wrap;
     gap: 74px;
     height: auto;
+    justify-content: center;
 }
 
 .container-logos{
-    width: 50%;
-    background-color: #7E69B6;
-    display: flex;
+       display: flex;
     flex-direction: column;
-    align-items: center;
     gap: 40px;
+    margin-left:126px;
 }
 
 .container-logos img{
@@ -50,13 +48,12 @@ body{
 }
 
 .container-formulario{
-    height: 1000px;
+       height: 800px;
     background-color: #292635;
     width: 60%;
     color: whitesmoke;
     display: flex;
     align-items: center;
-    flex-direction: column;
     margin: 40px;
     justify-content: center;
 }
