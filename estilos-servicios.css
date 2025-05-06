@@ -58,13 +58,7 @@ hr{
     margin: 80px;
     gap: 20px;
 
-    p {
-    width: 210px;
-    margin: 0px 4px;
-    color: white;
-    display: flex;
-    font-size: larger;
-    }
+   
 
 .texto3{
    display: flex;
