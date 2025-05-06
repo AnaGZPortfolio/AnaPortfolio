@@ -110,7 +110,10 @@ align-items:center;
     align-items: center;
     gap: 30px;
 }
-
+.exilio img{
+     width: 40%;
+    margin: 20px;    
+}
 .exilio1{
     width: 60%;
     margin:20px
