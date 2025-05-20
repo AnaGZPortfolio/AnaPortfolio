@@ -1,0 +1,92 @@
+
+.poetsen-one-regular {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+h1{
+    color:#A5A6F6;
+    margin: 21px;
+}
+
+header{
+    background-color:#2A2635;
+    height:40px;
+}
+
+
+footer{
+    background-color:#2A2635;
+    height: 40px;
+    color: #ffffff6e;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+body{
+    background-color:#7E69B6;
+    margin: auto;
+}
+
+.container-prin{
+   width: 90%;
+    display: flex;
+    align-items: center;
+    gap:75px;
+}
+
+.container-logos{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    gap:30px;
+}
+
+.logo1{
+ width:100px;
+}
+
+.logo2{
+ width:100px;
+}
+
+.logo3{
+ width:100px;
+}
+
+.container-formulario{
+       height: 800px;
+    background-color: #292635;
+    width: 60%;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    margin: 40px;
+    justify-content: center;
+}
+
+.submit: hover{
+    background-color:yellow;
+}
+
+.button-inicio a {
+  border-radius: 17px;
+    background-color: #7E69B6;
+    border: solid;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    margin: 5px;
+    display: inline-block;
+    border-color: #323373;
+}
+
