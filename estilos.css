@@ -124,9 +124,10 @@ hr{
 }
 
 .exilio{
-  display: flex;
-    flex-direction: row;
-    align-content: flex-start;
+display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
 }
 .exilio img{
      width: 40%;
