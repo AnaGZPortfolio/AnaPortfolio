@@ -74,6 +74,12 @@ font-family: "Poetsen One", sans-serif, 'Times New Roman', serif;
 font-weight: bold;
     color: white;
     font-size: 24px;
+        width: 210px;
+    margin: 0px 4px;
+    color: white;
+    display: flex;
+    font-size: larger;
+    }
 }
    
 
