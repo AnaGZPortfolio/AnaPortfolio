@@ -1,8 +1,3 @@
-p{
-    font-family: "Poetsen One", sans-serif, 'Times New Roman', serif;
-    font-weight: bold;
-    color:white;
-}
 
 header{
     background-color:#2A2635;
@@ -73,6 +68,12 @@ hr{
     gap: 20px;
     font-family: "Poetsen One", sans-serif, 'Times New Roman', serif;
     font-weight: bold;
+}
+
+.texto-video p{
+font-family: "Poetsen One", sans-serif, 'Times New Roman', serif;
+font-weight: bold;
+    color: white;
 }
    
 
