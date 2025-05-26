@@ -122,6 +122,12 @@ hr{
     align-items: center;
     gap: 30px;
 }
+
+.exilio{
+  display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+}
 .exilio img{
      width: 40%;
     margin: 20px;    
