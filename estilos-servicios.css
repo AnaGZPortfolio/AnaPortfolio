@@ -1,3 +1,9 @@
+p{
+    font-family: "Poetsen One", sans-serif, 'Times New Roman', serif;
+    font-weight: bold;
+    color:white;
+}
+
 header{
     background-color:#2A2635;
     height:40px;
