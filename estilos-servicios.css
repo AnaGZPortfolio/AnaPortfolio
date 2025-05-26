@@ -3,6 +3,12 @@ header{
     height:40px;
 }
 
+.poetsen-one-regular {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
    footer{
     background-color:#2A2635;
     height: 40px;
@@ -24,6 +30,8 @@ body{
 h1{
     color:#A5A6F6;
     margin: 21px;
+    font-family: "Poetsen One", sans-serif, 'Times New Roman', serif;
+    font-weight: bold;
 }
 
 .section-logos{
@@ -57,7 +65,9 @@ hr{
     align-items: center;
     margin: 80px;
     gap: 20px;
-
+    font-family: "Poetsen One", sans-serif, 'Times New Roman', serif;
+    font-weight: bold;
+}
    
 
 .texto3{
@@ -69,6 +79,8 @@ hr{
     gap: 20px;
     color: white;
     font-size: 24px;
+    font-family: "Poetsen One", sans-serif, 'Times New Roman', serif;
+    font-weight: bold;
 }
      .texto3 p {
     width: 210px;
@@ -91,6 +103,8 @@ hr{
     gap: 20px;
     color: white;
     font-size: 24px;
+    font-family: "Poetsen One", sans-serif, 'Times New Roman', serif;
+    font-weight: bold;
 }
      .texto4 p {
     width: 210px;
@@ -110,6 +124,8 @@ hr{
     gap: 20px;
     color: white;
     font-size: 24px;
+    font-family: "Poetsen One", sans-serif, 'Times New Roman', serif;
+    font-weight: bold;
 }
      .texto5 p {
     width: 210px;
