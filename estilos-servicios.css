@@ -74,12 +74,6 @@ hr{
 font-family: "Poetsen One", sans-serif, 'Times New Roman', serif;
 font-weight: bold;
     color: white;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    margin: 80px;
-    gap: 20px;
 }   
 
 .texto3{
