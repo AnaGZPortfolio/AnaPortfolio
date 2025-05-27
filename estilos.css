@@ -237,9 +237,9 @@ display: flex;
 }
 
 .logos{
-   width: 40%;
+width: 40%;
  display: flex;
- flex-direction: column;
+ flex-direction:row;
  margin: 50px;
  gap:30px;
 }
