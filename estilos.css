@@ -271,7 +271,7 @@ textarea {
 }
 
 input{
-  background-color: #4CAF50; 
+  background-color: #fff0e3; 
   color: white; 
   padding: 12px 20px; 
   border: none; 
@@ -282,7 +282,7 @@ input{
 }
 
 input:hover{
-    background-color: #3e8e41;
+    background-color: #ced4f5;
 }
 
 footer{    
