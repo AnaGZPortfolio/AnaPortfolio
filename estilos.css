@@ -207,7 +207,7 @@ display: flex;
     background-repeat: round;
     background-blend-mode: soft-light;
     background-color: #7E69B6;
-    background-size: auto;
+    background-size: cover;
 }
 
 .section4 p {
