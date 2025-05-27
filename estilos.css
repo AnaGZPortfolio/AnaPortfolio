@@ -296,3 +296,13 @@ footer{
     align-content: center;
     align-items: center;
 }
+
+.redes{
+background-color:#242424;
+  font-size:24px;
+  border-radius:20px;
+  position:fixed;
+  right:0;
+  top:50%;
+  
+}
