@@ -214,6 +214,11 @@ display: flex;
 .section4 p {
     gap:10px;
     font-size:23px;
+    margin: auto;
+    background-color: indigo;
+    border-radius: 20px;
+    padding: 17px;
+    box-shadow: 
 }
 
 .section5{
