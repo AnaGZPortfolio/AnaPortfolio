@@ -218,7 +218,7 @@ display: flex;
     background-color: indigo;
     border-radius: 20px;
     padding: 17px;
-    box-shadow: 
+    box-shadow: 10px 10px 10px rgba(34,47,91);
 }
 
 .section5{
