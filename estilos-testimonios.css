@@ -77,6 +77,13 @@ justify-content: center;
     gap:100px;
 }
 
+.cont-test{
+    display:flex;
+    justify-content:center;
+    aling-items:center;
+    padding:15px;
+    width:50%;
+}
 .testimonios-sec img{
     width:360px;
     border-radius:20px;
