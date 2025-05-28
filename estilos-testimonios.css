@@ -100,6 +100,14 @@ display: flex;
     border-radius: 26px;
 }
 
+.texto{
+    display: flex;
+    width: 14%;
+}
+
+.texto hr{
+    height:500px;
+}
 .seccion-fotos p{
     width: 210px;
     margin: 0px 4px;
