@@ -71,11 +71,7 @@ display: flex;
   align-items:center;
 }
 
-.testimonios-sec{
-   display: flex;
-justify-content: center;
-    gap:100px;
-}
+
 
 .cont-test{
     display:flex;
@@ -84,12 +80,7 @@ justify-content: center;
     padding:15px;
     width:50%;
 }
-.testimonios-sec img{
-    width:360px;
-    border-radius:20px;
-    display:flex;
-    align-items:center;
-}
+
 
 .testimonios-sec hr{
     width: 2px;
