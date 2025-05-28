@@ -260,7 +260,7 @@ display: flex;
 
 
 form{
-  width: 80%; 
+  width:490px; 
   margin: 20px auto; 
   padding: 20px; 
   background-color: #f9f9f9;
@@ -286,17 +286,31 @@ textarea {
 
 input{
   background-color: #fff0e3; 
-  color: white; 
+  color: black; 
   padding: 12px 20px; 
   border: none; 
   border-radius: 5px;
   cursor: pointer;
   font-size: 16px; 
   transition: background-color 0.3s ease;
+  width: -webkit-fill-available;
 }
 
 input:hover{
     background-color: #ced4f5;
+}
+
+.submit{
+   width: 100px;
+    height: 30px;
+    color:#292635;
+    background-color:white;
+    border-radius:50px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    padding: 10px 30px;
+    margin-top:63px;
+    text-decoration: none;
 }
 
 footer{    
