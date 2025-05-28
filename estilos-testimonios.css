@@ -71,7 +71,16 @@ display: flex;
   align-items:center;
 }
 
-
+.seccion-fotos{
+    width: 100%;
+    height: 550px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    padding: 30px;
+}
 
 .cont-test{
     display:flex;
@@ -82,14 +91,14 @@ display: flex;
 }
 
 
-.testimonios-sec hr{
+.seccion-fotos hr{
     width: 2px;
     margin: 21px;
     background-color: white;
     border-radius: 26px;
 }
 
-.testimonios-sec p{
+.seccion-fotos p{
     width: 210px;
     margin: 0px 4px;
     color: white;
